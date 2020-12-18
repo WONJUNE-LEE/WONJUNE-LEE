@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 I am a student who wants to be a software developer
 
-# 학력
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gee04147@gmail.com)](mailto:gee04147@gmail.com)
